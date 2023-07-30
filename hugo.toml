@@ -36,6 +36,11 @@ style = "github-dark"
     #Social links
     [[params.social]]
     name = "Email"
+    icon = "fa fa-envelope fa-2x"
+    weight = 1
+    url = "mailto:akhilsharma.off@gmail.com"
+    [[params.social]]
+    name = "Email"
     icon = "fa fa-email fa-2x"
     weight = 1
     url = "https://github.com/Akhil-Sharma30"
