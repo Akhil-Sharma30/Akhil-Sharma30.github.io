@@ -5,7 +5,7 @@ date: 2023-07-29T21:25:50+05:30
 
 > I primarily contributed to the **[[P1] Virtual Civilization Initiative](https://p1vc.org/?tab=community&category=)** and random Open-Source fun projects.
 
-# Github User
+# [Github User](https://github.com/Akhil-Sharma30)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=akhil-sharma30&show_icons=true&locale=en) 
 ![github most contribution in specific language](https://github-readme-stats.vercel.app/api/top-langs?username=akhil-sharma30&show_icons=true&locale=en&layout=compact)
