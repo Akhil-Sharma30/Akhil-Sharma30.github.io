@@ -42,7 +42,7 @@ style = "github-dark"
     [[params.social]]
     name = "Github"
     icon = "fa fa-github fa-2x"
-    weight = 1
+    weight = 2
     url = "https://github.com/Akhil-Sharma30"
     [[params.social]]
     name = "Twitter"
