@@ -83,7 +83,7 @@ style = "github-dark"
     url = "cv/"
     [[menu.main]]
     name = "ChatBot"
-    weight = 3
+    weight = 4
     url = "https://huggingface.co/spaces/DeveloperAkhil/Personal-Chatbot"
 
     
