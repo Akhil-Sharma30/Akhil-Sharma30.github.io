@@ -1,5 +1,4 @@
 know akhil?
-akhil personal website link is https://akhil-sharma30.github.io
 I am  Akhil Sharma an final year engineering student at the University of Delhi, pursuing a major in IT and Mathematics. I develop and (see /opensource, which I believe are the key to collaborative and reproducible research.
 I am currently working in Agnisys as an AI Reinforcement and Machine Learning Engineer, where my work here revolves around Automating the Test Cases of digital circuit. Previously I have worked with IIT Delhi to Develop an Mixed Reality (MR) platform for Joint Attention Training for individuals with Autism Spectrum Disorder (ASD).
 I have contributed to Open-Source community called [P1] Virtual Civilization Initiative, where my work revolved around developing features for their open world game, testing the Environment for the fellow developer and reviewing the PR’s before merging into the main branch.
