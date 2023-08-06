@@ -9,6 +9,9 @@ paginate = 20
 [markup.highlight]
 style = "github-dark"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
     author = "AKHIL SHARMA"
     info = "**AI Reinforcement** and **Machine Learning Engineer**"
@@ -84,7 +87,7 @@ style = "github-dark"
     [[menu.main]]
     name = "ChatBot"
     weight = 4
-    url = "https://huggingface.co/spaces/DeveloperAkhil/Personal-Chatbot"
+    url = "chatbot/"
 
     
 
