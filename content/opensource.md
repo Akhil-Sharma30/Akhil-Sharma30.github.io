@@ -18,8 +18,8 @@ date: 2023-07-29T21:25:50+05:30
 > 
 ## **[LLM ChatBot](/chatbot/)**
 
-- This is a project trained **Large Language Model(LLM)** using the environment provided by the **Python** and [LLAMMA Index](https://gpt-index.readthedocs.io/en/latest/index.html#) 
-- Llamma-index help you convert and store your personal data in to vector embedding for training on the chatbot at the later stage. It Also help you convery user asked query into a *Vector Embedding* with cosine-similarity(k) {here k could any value 1,2,3....}.
+- This is a project trained **Large Language Model(LLM)** using the environment provided by the **Python** and [LLAMA-Index](https://gpt-index.readthedocs.io/en/latest/index.html#) 
+- Llama-index help you convert and store your personal data in to vector embedding for training on the chatbot at the later stage. It Also help you convery user asked query into a *Vector Embedding* with cosine-similarity(k) {here k could any value 1,2,3....}.
 - The Chatbot uses *OpenAI* endpoint to display his last formatted data to the user.This bot can help you answer any question related to me👀 and my website, experience,...
 - It might also *hallucinate* at some points due to data restriction while training but it is 90-95% accurate till now and working on improving🙂.
 
