@@ -12,4 +12,6 @@ date: 2023-07-29T21:25:50+05:30
 
 ### [2. Brackey's Game Jam](https://medium.com/@Akhilsharma30/first-experience-of-a-game-jam-36f8d2c6b56e)
 
+### [3. Using LlamaIndex and Large Language Models: Building a Personal ChatBot for Private Knowledge Base Queries](https://medium.com/@Akhilsharma30/using-llamaindex-and-large-language-models-building-a-personal-chatbot-for-private-knowledge-base-28eb98607739)
+
 ---
