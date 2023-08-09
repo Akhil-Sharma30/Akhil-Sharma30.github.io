@@ -28,7 +28,7 @@ date: 2023-07-29T21:25:50+05:30
 
 - This is a project performed an EDA on the dataset and tested the model generated after hyper-parameter tunning on different Machine
 Learning Models to predict its accuracy and efficiency in different scenarios.
-- Using Python and Sklearn library for implementing the ML Models.
+- Using Python and Sklearn library for implementing the ML Model.
 
 ---
 
