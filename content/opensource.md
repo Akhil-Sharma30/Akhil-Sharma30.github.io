@@ -24,6 +24,13 @@ date: 2023-07-29T21:25:50+05:30
 - It might also *hallucinate* at some points due to data restriction while training but it is 90-95% accurate till now and working on improving🙂.
 
 ---
+## **[House Pricing Data Analysis](https://medium.com/@Akhilsharma30/house-prices-analysis-advanced-regression-techniques-bb444f471080)**
+
+- This is a project performed an EDA on the dataset and tested the model generated after hyper-parameter tunning on different Machine
+Learning Models to predict its accuracy and efficiency in different scenarios.
+- Using Python and Sklearn library for implementing the ML Models.
+
+---
 
 ## **[AI-BASED-2-PLAYER-GAME](https://github.com/Akhil-Sharma30/AI-BASED-2-PLAYER-GAME)**
 
