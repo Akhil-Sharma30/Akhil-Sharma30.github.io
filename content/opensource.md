@@ -3,7 +3,9 @@ title: "Open-Source 🔍"
 date: 2023-07-29T21:25:50+05:30
 ---
 
-> I primarily contributed to the **[[P1] Virtual Civilization Initiative](https://p1vc.org/?tab=community&category=)** and random Open-Source fun projects.
+> Currently I contribute in the development of **Cookiecutter based template** for [**Infection Monkey**](https://github.com/guardicode/infection-monkey-cookiecutter) related projects.
+
+> Previously I have contributed to the **[[P1] Virtual Civilization Initiative](https://p1vc.org/?tab=community&category=)** and random Open-Source fun projects.
 
 # [Github User](https://github.com/Akhil-Sharma30)
 
