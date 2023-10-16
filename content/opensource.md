@@ -18,6 +18,16 @@ date: 2023-07-29T21:25:50+05:30
 
 > Personal projects that I created in my free time (or took a lot of time for me to develop).
 > 
+## **[Pystocktopus](https://pypi.org/project/pystocktopus/)**
+
+- Managing and analyzing stock data can be a complex and time-consuming task for investors and traders. Keeping track of historical stock data, updating it with new information, and extracting valuable insights from the data are all crucial aspects of making informed investment decisions.
+- Introducing pystocktopus, a powerful Python package for **Python 3.7+** designed to simplify stock data management, analysis, prediction and also use the news sentiments of stocks volatality.
+- It provides a seamless solution for maintaining your stock data in CSV format. Whether you need to update existing data or extract new data from a CSV file, this package streamlines the process, ensuring that your stock data is always up-to-date and readily accessible.
+- It offers tools to analyze your stock's performance and predict how news and events will impact its growth. It leverages advanced algorithms to assess whether news sentiment for a specific stock over a defined period is positive or negative, helping you make informed investment decisions.
+- It simplifies the process of extracting the current closing price for a specific stock. With just a few lines of code, you can access up-to-the-minute price information, enabling you to monitor your investments with precision.
+- **pystocktopus** is an easy-to-use and versatile library that empowers users to maintain and analyze their stock data with ease. Whether you are an experienced trader or a novice investor, pystocktopus provides a comprehensive set of tools to streamline your stock-related tasks.
+
+
 ## **[LLM ChatBot](/chatbot/)**
 
 - This is a project trained **Large Language Model(LLM)** using the environment provided by the **Python** and [LLAMA Index](https://gpt-index.readthedocs.io/en/latest/index.html#) 
