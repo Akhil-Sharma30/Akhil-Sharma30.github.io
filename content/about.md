@@ -24,9 +24,9 @@ _____________________________
 
 ## Machine Learning and LLMs Engineer
 
-[Agnisys](https://www.agnisys.com)*, Boston, Massachusetts,  – (June 2023 - Present)*
+[Agnisys](https://www.agnisys.com)*, Boston, Massachusetts,  – (June 2023 - Sept 2023)*
 
-- Here my work here revolves around **Automating** the **Test Cases** of digital circuit and Building a ***ChatBot*** for **IDS-IPGen** and ****IDesignSpecTM GDI**** Project.
+- Here my work here revolves around **Automating** the **Test Cases** of digital circuit and Building a ***ChatBot*** for the organization internal use.
 
 ---
 
