@@ -7,7 +7,7 @@ _____________________________
 > I am an final year engineering student at the **[University of Delhi](http://du.ac.in/)**, pursuing a major in IT and Mathematics. I develop and  (see [/opensource](/opensource/), which I believe are the key to collaborative and reproducible research.
 > 
 
-> I am currently working in [Agnisys](https://www.agnisys.com) as an **AI Reinforcement** and **Machine Learning Engineer**, where my work here revolves around **Automating** the **Test Cases** of digital circuit. Previously I have worked with **[IIT Delhi](https://home.iitd.ac.in/)** to Develop an Mixed Reality (MR) platform for J**oint Attention Training** for individuals with **Autism Spectrum Disorder (ASD).**
+> I am currently working in [CiSTUP,IISc](https://cistup.iisc.ac.in) as Research Intern for the **Design and Development of Traffic Scenarios using Unity**. Previously I have worked with  [Agnisys](https://www.agnisys.com) as an **AI Reinforcement** and **Machine Learning Engineer**, where my work here revolves around creating a **ChatBot** using LLM's for the company's documentation and **[IIT Delhi](https://home.iitd.ac.in/)** to Develop an Mixed Reality (MR) platform for J**oint Attention Training** for individuals with **Autism Spectrum Disorder (ASD).**
 > 
 
 > I have contributed to **Open-Source** community called [[P1] Virtual Civilization Initiative](https://p1vc.org/), where my work revolved around developing **features** for their **open world** game, **testing** the **Environment** for the fellow developer and **reviewing** the **PR’s** before merging into the **main branch**.
