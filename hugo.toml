@@ -14,7 +14,7 @@ unsafe = true
 
 [params]
     author = "AKHIL SHARMA"
-    info = "Research Intern @Cistups @IISc Bangalore"
+    info = "ML Engieer"
     description = "Akhil Sharma's personal website"
     keywords = "Blog,developer,personal"
     avatarurl = "https://avatars.githubusercontent.com/u/68015525?s=400&u=a3180b9b2d4c200fb2a5f2756fa1817aa6cb4f98&v=4"
