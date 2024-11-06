@@ -21,7 +21,18 @@ _____________________________
 # **Current and Past Affiliations**
 
 > The organisations, institutes, and programs I am currently working for (or under), or have worked for in the past.
+## Research Intern
 
+[Indian Institute of Science (IISc)](https://cistup.iisc.ac.in/)*, Bangalore, India,  – (Jan 2024 - July 2024)*
+
+- During my internship, I was engaged in automating the development of test scenarios based on practical Indian road
+conditions for real-world bus driver simulators.
+- This work aims to improve the scenario for specific Indian environments like Bangalore and conduct comprehensive
+studies on driver behavior under Indian road conditions, providing crucial insights for policy-making and
+infrastructure development.
+
+
+---
 ## Machine Learning and LLMs Engineer
 
 [Agnisys](https://www.agnisys.com)*, Boston, Massachusetts,  – (June 2023 - Sept 2023)*
