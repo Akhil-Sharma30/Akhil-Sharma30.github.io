@@ -9,7 +9,7 @@ date: 2023-07-29T21:25:50+05:30
 
 # [Github User](https://github.com/Akhil-Sharma30)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=akhil-sharma30&show_icons=true&locale=en) 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akhil-Sharma30&theme=high-contrast)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 ![github most contribution in specific language](https://github-readme-stats.vercel.app/api/top-langs?username=akhil-sharma30&show_icons=true&locale=en&layout=compact)
 
 ---
