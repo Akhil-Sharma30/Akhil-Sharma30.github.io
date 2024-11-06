@@ -4,7 +4,7 @@ date: 2023-07-29T21:25:50+05:30
 ---
 Hi, here’s a little about me.
 _____________________________
-> I am an final year engineering student at the **[University of Delhi](http://du.ac.in/)**, pursuing a major in IT and Mathematics. I develop and  (see [/opensource](/opensource/), which I believe are the key to collaborative and reproducible research.
+> I have completed my Bachelor's from **[University of Delhi](http://du.ac.in/)**, pursuing a major in IT and Mathematics. I develop and  (see [/opensource](/opensource/), which I believe are the key to collaborative and reproducible research.
 > 
 
 > I am currently working in [CiSTUP,IISc](https://cistup.iisc.ac.in) as Research Intern for the **Design and Development of Traffic Scenarios using Unity**. Previously I have worked with [Agnisys](https://www.agnisys.com) as an **AI Reinforcement** and **Machine Learning Engineer**, where my work here revolves around creating a **ChatBot** using LLM's for the company's documentation and **[IIT Delhi](https://home.iitd.ac.in/)** to Develop an Mixed Reality (MR) platform for J**oint Attention Training** for individuals with **Autism Spectrum Disorder (ASD).**
